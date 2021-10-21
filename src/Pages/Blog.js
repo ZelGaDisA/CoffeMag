@@ -15,7 +15,7 @@ export default class Blog extends Component {
             <Container>
                 <Row>
                     <Col md="9">
-                        <Media className="m-5">
+                        <Media className="m-4">
                             <img
                                 width={150}
                                 height={150}
